@@ -101,7 +101,7 @@ We trained multiple **CNN architectures (AlexNet, VGG16, ResNet50, EfficientNet)
 ### Training Accuracy & Loss  
  
 ### AlexNet
-![Training Curves](assets\AlexNet_accuracy.png)  
+![Training Curves](assets/AlexNet_accuracy.png)  
 ![Loss](assets\AlexNet_loss.png)
 
 ### VGGNet 
