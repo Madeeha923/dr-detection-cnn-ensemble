@@ -102,21 +102,21 @@ We trained multiple **CNN architectures (AlexNet, VGG16, ResNet50, EfficientNet)
  
 ### AlexNet
 ![Training Curves](assets/AlexNet_accuracy.png)  
-![Loss](assets\AlexNet_loss.png)
+![Loss](assets/AlexNet_loss.png)
 
 ### VGGNet 
-![Training Curves](assets\VGG16_accuracy.png)  
-![Loss](assets\VGG16_loss.png)
+![Training Curves](assets/VGG16_accuracy.png)  
+![Loss](assets/VGG16_loss.png)
 
 ### ResNet50
 
-![Training Curves](assets\ResNet50_accuracy.png)  
-![Loss](assets\ResNet50_loss.png)
+![Training Curves](assets/ResNet50_accuracy.png)  
+![Loss](assets/ResNet50_loss.png)
 
 ### EfficientNet
 
-![Training Curves](assets\EfficientNet_accuracy.png)  
-![Loss](assets\EfficientNet_loss.png)
+![Training Curves](assets/EfficientNet_accuracy.png)  
+![Loss](assets/EfficientNet_loss.png)
 
 ---
 
